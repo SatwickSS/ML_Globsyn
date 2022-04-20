@@ -1,0 +1,16 @@
+1> Who will use / how this prediction will add value
+2> define +ve case /-ve case(classification)
+3> what metric is appropriate(accuracy,recall,precision,etc)
+4> open the data file in text editor(notepad++,sublime text,
+     -what is separator
+     - any other anomalies
+     - python file handling code may be required to bring file in order
+5> header  present ? column names should be short(renaming may be required)
+6> open file in pandas
+7> check which column has null(na)(percentage)[IMPORTANT]
+8> Find your X and y(target)
+9> how many numeric and categorical(string)
+    -in all numeric which are discrete / continuous
+10> for all categorical , find there labels
+11> in classification : distribution of y
+12> are all continuous columns have same scale ?
